@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/day2-react/static/css/main.4aaf7d44.chunk.css",
+    "main.js": "/day2-react/static/js/main.a6d1d6c6.chunk.js",
+    "main.js.map": "/day2-react/static/js/main.a6d1d6c6.chunk.js.map",
+    "runtime-main.js": "/day2-react/static/js/runtime-main.373f7c7e.js",
+    "runtime-main.js.map": "/day2-react/static/js/runtime-main.373f7c7e.js.map",
+    "static/js/2.7000bb08.chunk.js": "/day2-react/static/js/2.7000bb08.chunk.js",
+    "static/js/2.7000bb08.chunk.js.map": "/day2-react/static/js/2.7000bb08.chunk.js.map",
+    "static/js/3.f0685472.chunk.js": "/day2-react/static/js/3.f0685472.chunk.js",
+    "static/js/3.f0685472.chunk.js.map": "/day2-react/static/js/3.f0685472.chunk.js.map",
+    "index.html": "/day2-react/index.html",
+    "static/css/main.4aaf7d44.chunk.css.map": "/day2-react/static/css/main.4aaf7d44.chunk.css.map",
+    "static/js/2.7000bb08.chunk.js.LICENSE.txt": "/day2-react/static/js/2.7000bb08.chunk.js.LICENSE.txt",
+    "static/media/after.a4c85323.jpg": "/day2-react/static/media/after.a4c85323.jpg",
+    "static/media/archer.3f8290ba.jpg": "/day2-react/static/media/archer.3f8290ba.jpg",
+    "static/media/frontLine.30d575c0.jpg": "/day2-react/static/media/frontLine.30d575c0.jpg",
+    "static/media/jumanji.77694907.jpg": "/day2-react/static/media/jumanji.77694907.jpg",
+    "static/media/mariageStory.b5dc5a3b.png": "/day2-react/static/media/mariageStory.b5dc5a3b.png",
+    "static/media/parasite.2b880bac.jpeg": "/day2-react/static/media/parasite.2b880bac.jpeg",
+    "static/media/header.css": "/day2-react/static/media/profilePic.042a3c93.jpeg",
+    "static/media/shrek.96086eaf.jpg": "/day2-react/static/media/shrek.96086eaf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.373f7c7e.js",
+    "static/js/2.7000bb08.chunk.js",
+    "static/css/main.4aaf7d44.chunk.css",
+    "static/js/main.a6d1d6c6.chunk.js"
+  ]
+}
